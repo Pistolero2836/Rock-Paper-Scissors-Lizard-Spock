@@ -16,7 +16,7 @@ print(f'4) {lizard}')
 print(f'5) {spock}')
 
 player = int(input('Pick a number: '))
-computer = random.randint(1, 3)
+computer = random.randint(1, 5)
 
 print('')
 
